@@ -13,5 +13,6 @@
 - (void)getConnectedSSID:(CDVInvokedUrlCommand*)command;
 - (void)isWifiEnabled:(CDVInvokedUrlCommand*)command;
 - (void)setWifiEnabled:(CDVInvokedUrlCommand*)command;
+- (void)getConnectedINFO:(CDVInvokedUrlCommand*)command;
 
 @end
